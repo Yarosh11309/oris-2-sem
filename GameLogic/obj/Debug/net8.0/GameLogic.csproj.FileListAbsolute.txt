@@ -1,0 +1,30 @@
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\bin\Debug\net8.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\bin\Debug\net8.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\refint\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\GameLogic\obj\Debug\net8.0\ref\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\bin\Debug\net8.0\GameLogic.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\bin\Debug\net8.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\bin\Debug\net8.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.csproj.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\refint\GameLogic.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\GameLogic.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\GameLogic\obj\Debug\net8.0\ref\GameLogic.dll

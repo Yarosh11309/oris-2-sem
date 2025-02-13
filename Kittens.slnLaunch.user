@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Kittens\\Kittens.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      }
+    ]
+  },
+  {
+    "Name": "Новый профиль (1)",
+    "Projects": [
+      {
+        "Path": "Kittens\\Kittens.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      }
+    ]
+  },
+  {
+    "Name": "Новый профиль (2)",
+    "Projects": [
+      {
+        "Path": "Kittens\\Kittens.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      }
+    ]
+  }
+]

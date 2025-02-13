@@ -1,0 +1,5 @@
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Kittens\obj\Debug\net6.0-android\Kittens.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Kittens\obj\Debug\net6.0-android\Kittens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Kittens\obj\Debug\net6.0-android\Kittens.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Kittens\obj\Debug\net6.0-android\Kittens.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Kittens\obj\Debug\net6.0-android\Kittens.csproj.CoreCompileInputs.cache

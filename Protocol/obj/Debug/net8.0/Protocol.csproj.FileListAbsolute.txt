@@ -1,0 +1,30 @@
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\bin\Debug\net8.0\Protocol.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\bin\Debug\net8.0\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\bin\Debug\net8.0\Protocol.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\bin\Debug\net8.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\bin\Debug\net8.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\refint\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\Protocol.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\Protocol\obj\Debug\net8.0\ref\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\bin\Debug\net8.0\Protocol.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\bin\Debug\net8.0\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\bin\Debug\net8.0\Protocol.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\bin\Debug\net8.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\bin\Debug\net8.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.csproj.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\refint\Protocol.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\Protocol.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\2semestovka yaroshtd oris\Kittens\Protocol\obj\Debug\net8.0\ref\Protocol.dll

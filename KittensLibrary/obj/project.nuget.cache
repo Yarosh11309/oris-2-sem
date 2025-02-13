@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OMGR9nwowM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\exploding-kittens-commonResult\\exploding-kittens-commonResult\\Kittens\\KittensLibrary\\KittensLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timyr\\.nuget\\packages\\communitytoolkit.maui\\2.0.0\\communitytoolkit.maui.2.0.0.nupkg.sha512",
+    "C:\\Users\\timyr\\.nuget\\packages\\communitytoolkit.maui.core\\2.0.0\\communitytoolkit.maui.core.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

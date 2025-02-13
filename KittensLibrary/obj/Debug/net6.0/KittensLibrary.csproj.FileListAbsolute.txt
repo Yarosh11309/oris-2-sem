@@ -1,0 +1,12 @@
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\bin\Debug\net6.0\KittensLibrary.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\bin\Debug\net6.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\bin\Debug\net6.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\refint\KittensLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\KittensLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\exploding-kittens-commonResult\exploding-kittens-commonResult\Kittens\KittensLibrary\obj\Debug\net6.0\ref\KittensLibrary.dll
